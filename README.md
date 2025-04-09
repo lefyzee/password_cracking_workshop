@@ -1,4 +1,6 @@
 # password_cracking_workshop
+# Contributers: Brandon Dudas, Ata, Ian
+
 Everything needed for the DePaul and National Louis University Password Cracking Workshop Spring 2025. 
 
 This repository contains hands-on scenarios and tools for learning password crakcing using Hashcat and other techniques.
