@@ -1,9 +1,9 @@
 # Notes:
 📋 Step-by-Step Planning Guide
 Action Items:
-50 People
-Registration process 
-50 USB 
+40 People max
+-Room reserved
+-Flyer being made
 Keep organized in GitHub
 Marketing
 
@@ -14,8 +14,8 @@ Introduce the idea: Explain the workshop’s purpose and how both clubs benefit.
 Discuss logistics:
 Date & time: May 15 2025
 Location or platform (in-person and virtual?)
-Number of participants 50
-Equipment needed (laptops, VMs, USBs)
+Number of participants 40
+Equipment needed (laptops VMs)
 
 Assign roles:
 Brandon: plan scenarios
