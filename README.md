@@ -1,5 +1,5 @@
 # password_cracking_workshop
-# Contributers: Brandon Dudas, Ata, Ian
+# Contributers: Brandon Dudas, Ata, Ian, Gabriel, Orkhan, Aidar
 
 Everything needed for the DePaul and National Louis University Password Cracking Workshop Spring 2025. 
 
