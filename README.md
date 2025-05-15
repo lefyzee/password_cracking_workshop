@@ -6,6 +6,8 @@ Everything needed for the DePaul and National Louis University Password Cracking
 This repository contains hands-on scenarios and tools for learning password crakcing using Hashcat and other techniques.
 Built for cybersecurity clubs and beginners alike.
 
+We used vm with rtl8188eus drivers for the wifi cracking section of the workshop.
+
 Feel free to use this template for your school! Just be sure to provide credit.
 
 
