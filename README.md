@@ -1,5 +1,5 @@
-# password_cracking_workshop
-# Contributers: Brandon Dudas, Ata, Ian, Gabriel, Orkhan, Aidar
+# password_cracking_workshop v1.0
+# Contributers: Brandon, Ata, Ian, Gabriel, Orkhan, Aidar
 
 Everything needed for the DePaul and National Louis University Password Cracking Workshop Spring 2025. 
 
@@ -13,7 +13,7 @@ Feel free to use this template for your school! Just be sure to provide credit.
 
 Getting Started:
 1. Clone this repo.
-2. Boot into a Kali Linux USB stick.
+2. Boot into a Kali Linux USB stick or Virtual Machine
 3. Choose a scenario and follow the instructions.
 
 
